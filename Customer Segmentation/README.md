@@ -19,7 +19,7 @@ To run the Jupyter Notebook in the repository on your local machine or using Goo
 ## Hierarchical clustering 
 <img src="https://github.com/mbarnawi/ML_Portfolio/blob/main/Customer%20Segmentation/img/Hierarchical.PNG" width=500 highet=200>
 
-## Kmeann prediction  result
+## Kmeans prediction  result
 <img src="https://github.com/mbarnawi/ML_Portfolio/blob/main/Customer%20Segmentation/img/pridect.PNG" width=500 highet=200>
 You can see the distinct behavior difference between males and females in each cluster in the histogram.
 In the project file, you can find additional analyses and insights.
