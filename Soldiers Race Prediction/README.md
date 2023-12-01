@@ -1,5 +1,5 @@
 # Soldiers Race Prediction
-<img src="Soldiers Race Prediction/images/Capture.PNG" width=600>
+<img src="https://github.com/mbarnawi/ML_Portfolio/blob/main/Soldiers%20Race%20Prediction/images/Capture.PNG" width=600>
 This machine learning project focuses on imbalanced multiclass classification using supervised learning techniques. The objective is to predict the race of a soldier based on a set of given features.
 
 # Used Libraries
@@ -11,7 +11,7 @@ This machine learning project focuses on imbalanced multiclass classification us
 To run the Jupyter Notebook in the repository on your local machine or using Google Colab
 
 # Results 
-<img src="Soldiers Race Prediction/images/both.PNG" width=1000 highet=200>
+<img src="https://github.com/mbarnawi/ML_Portfolio/blob/main/Soldiers%20Race%20Prediction/images/both.PNG" width=1000 highet=200>
 
 
 The tuned SVM model achieved excellent scores and performed better than three other tuned models (Logistic Regression, Random Forest, XGBoost), particularly in terms of the minority class
